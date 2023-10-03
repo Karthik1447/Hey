@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 :root {
-    --body-color: black;
-    --color-white: hotpink;
+    --body-color: rgb(250, 250, 250);
+    --color-white: rgb(255, 255, 255);
 
-    --text-color-second: white;
-    --text-color-third: green;
+    --text-color-second: black;
+    --text-color-third: rgb(30, 159, 171);
 
-    --first-color: lawngreen;
-    --first-color-hover: deeppink;
+    --first-color: rgb(110, 87, 224);
+    --first-color-hover: rgb(40, 91, 212);
 
-    --second-color: black;
-    --third-color: white;
-    --first-shadow-color: brown;
+    --second-color: rgb(0, 201, 255);
+    --third-color: rgb(192, 166, 49);
+    --first-shadow-color: rgba(0, 0, 0, 0.1);
 
 }
 
